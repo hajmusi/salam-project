@@ -14,3 +14,15 @@ function myFunction() {
 
   document.getElementById("show").innerHTML = text;
 }
+
+// -----------------------------------------
+// let salam = "hi bro";
+// console.log(salam);
+// -------------------------------------------
+// let salam = "hi bro00";
+// if (salam === "hi bro") {
+//   text = hiiiii;
+// }
+
+// console.log(salam)
+// ---------------------------------
