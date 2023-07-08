@@ -39,7 +39,7 @@ button:hover {
 .container {
   width: 500px;
   height: 40vh;
-  margin: 500px auto;
+  margin: 100px auto;
   text-align: center;
   border: 2px solid rgb(105, 105, 105);
   background-color: rgba(0, 0, 0, 0.737);
